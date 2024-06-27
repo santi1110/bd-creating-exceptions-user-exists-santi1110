@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="main.UserExistsExceptionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-06-27T14:06:41" hostname="SANTIMSI" time="0.019">
+  <properties/>
+  <testcase name="constructor_withMessageAndCause_correctMessageUsed()" classname="main.UserExistsExceptionTest" time="0.017"/>
+  <testcase name="constructor_withMessage_correctMessageUsed()" classname="main.UserExistsExceptionTest" time="0.0"/>
+  <testcase name="constructor_withCause_correctMessageUsed()" classname="main.UserExistsExceptionTest" time="0.0"/>
+  <testcase name="userExistsException_isCheckedException()" classname="main.UserExistsExceptionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
